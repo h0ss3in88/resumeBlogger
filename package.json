@@ -35,7 +35,7 @@
     "pluralize": "^8.0.0",
     "response-time": "^2.3.2",
     "uuid": "^8.0.0",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "@types/bcryptjs": "^2.4.2",
